@@ -1,0 +1,17 @@
+body{
+    background-color: #a71d31;
+}
+h1{
+    background-color: #f1f0cc;
+    color: #3f0d12;
+}p{
+    background-color: aliceblue;
+    font-size: larger;
+    color: black;
+}
+
+/*
+Aqui é apenas um comentario body{
+  background-color: bisque;
+}
+*/
